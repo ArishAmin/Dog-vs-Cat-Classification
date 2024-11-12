@@ -15,10 +15,6 @@ This project aims to build a classification model that can accurately distinguis
 - **OpenCV**: For image processing.
 - **Pandas**: For handling data frames and CSV files.
 
-## Dataset
-
-The dataset used in this project is a collection of images labelled as either "dog" or "cat". The images are resized to a standard size to ensure uniformity during model training. The dataset can be downloaded from [Kaggle's Dog vs Cat Dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
-
 ### Dataset Structure:
 - **Training Set**: Images labelled 'dog' or 'cat'.
 - **Test Set**: Images to test the model’s predictions.
